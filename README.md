@@ -1,2 +1,2 @@
 # PointCloud_registration
-Iterative Closest Point algorithm
+This work is based on [ICP registration tutorial](http://www.open3d.org/docs/latest/tutorial/Basic/icp_registration.html).
