@@ -5,4 +5,4 @@ This work is based on [ICP registration tutorial](http://www.open3d.org/docs/lat
 ```bash
 python geometric_features.py --voxel_size [default value is 0.05]
 ```
-
+![Project Image](images/visualization.png)
