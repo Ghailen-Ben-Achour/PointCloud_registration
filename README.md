@@ -3,6 +3,6 @@ This work is based on [ICP registration tutorial](http://www.open3d.org/docs/lat
 ## Usage
 ```geometric_features.py``` allows to visualize and extract the geometric features of the source point cloud (in yellow) as well as the target (in blue).
 ```bash
-geometric_features.py --voxel_size [default value is 0.05]
+python geometric_features.py --voxel_size [default value is 0.05]
 ```
 
