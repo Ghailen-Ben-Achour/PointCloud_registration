@@ -15,3 +15,8 @@ python ransac.py --voxel_size [default value is 0.05]
 ![Project Image](images/ransac.png)
 
 ### Point to Point registration
+In general, the ICP algorithm iterates over two steps:
+
+1. Find correspondence set K={(p,q)} from target point cloud P, and source point cloud Q transformed with current transformation matrix T.
+
+1. Update the transformation T by minimizing an objective function E(T) defined over the correspondence set K.
