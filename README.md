@@ -13,3 +13,5 @@ python ransac.py --voxel_size [default value is 0.05]
 
 ```
 ![Project Image](images/ransac.png)
+
+### Point to Point registration
