@@ -20,3 +20,4 @@ In general, the ICP algorithm iterates over two steps:
 1. Find correspondence set K={(p,q)} from target point cloud P, and source point cloud Q transformed with current transformation matrix T.
 
 1. Update the transformation T by minimizing an objective function E(T) defined over the correspondence set K.
+![Project Image](images/point_to_point.png)
